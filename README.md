@@ -1,8 +1,8 @@
 # Regral - dynamic regression analysis suite for financial market price data.
 
 
+![ezgif com-animated-gif-maker (1)](https://github.com/user-attachments/assets/04ad299a-da7c-4337-ba91-098d395d67ae)
 
-![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/ac9257d8-4b69-4edc-8bd8-6ea3e004e7da)
 
 
 A work in progress, analyzing financial markets through various angles and perspectives
